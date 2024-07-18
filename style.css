@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(63, 143, 80);
+}
+.heading{
+
+background-color: rgba(218, 107, 33, 0.447);
+text-align: center;
+color: white;
+font-size: xx-large;
+font-family: "IBM Plex Sans" sans-serif;
+font-weight: 700;
+font-style: normal;
+font-weight: bolder;
+padding: 20px;
+text-shadow: 10px,10px,10px,10px blue;
+}
+
+.atoz {
+
+    line-height: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+  font-style: normal;
+  display: inline;
+  font-size: xx-large;
+  letter-spacing: 2px;
+
+}
+
+
+.img {
+    line-height: 15em;
+    display: inline;
+    margin-left: 15em;
+    margin-right: 15em;
+    width: 20%;
+  }
+
+  .p {
+    line-height: 10em;
+    display: inline;
+    text-shadow: 2px 2px 5px white;
+  }
+
+
+  .ABC {
+    box-shadow: 5px 0px 10px 10px rgb(35, 108, 142);
+    text-align: center;
+    background-color: skyblue;
+    display: inline-block;
+    line-height: 30px;
+    height: 400px;
+    width: 40em;
+    border-radius: 10px;
+    justify-content: center;
+  }
+
+  .a {
+    background-color: rgb(58, 35, 142);
+    bord.er-radius: 50px;
+    display: inline;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    font-style: normal;
+    text-decoration: none;
+    color: white;
+    position: fixed;
+    bottom: 190px;
+    padding: 30px;
+    border-radius: 500px;
+  }
+
+
+  .center {
+    padding: 05px;
+    margin: 05px;
+  }
+  #a:hover {
+    background-color: red;
+  }
+  #a:focus {
+    background-color: rgb(58, 35, 142);
+    background-color: ;
+  }
+  .table {
+    word-spacing: 2px;
+    line-height: 60px;
+  }
+  a {
+    padding: 10px;
+    background-color: rgb(35, 108, 142);
+    background-color: ;
+    text-decoration: none;
+    font-size: xx-large;
+    color: white;
+  }
+  a:hover {
+    background-color: red;
+  }
+  a:focus {
+    background-color: rgb(142, 90, 35);
+    
+    
+    
+  }
+  
